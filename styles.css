@@ -5,10 +5,10 @@
 .imageContainer>img{
 	width:300px;
 }
-.first-col>img, .third-col>img{
+.first-col, .third-col{
 	width: 200px;
 	
 }
-.second-col>img{
+.second-col{
 	width: 600px;
 }
